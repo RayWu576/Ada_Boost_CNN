@@ -1,5 +1,5 @@
 # Ada_Boost_CNN
-Ada_Boost_CNN 實作
+Ada_Boost_CNN 實作(此報告中我負責程式實作(程式簡報)以及影片報告)
 ## 論文報告說明
 https://youtu.be/4lfBeCsEaBo
 ## 研究背景
